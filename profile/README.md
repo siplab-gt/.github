@@ -6,4 +6,4 @@ This is the home of software produced by the [Sensory Information Processing Lab
 
 Our research focus is in **computational neuroengineering**, an intersection of data science, neurotechnology and computational modeling that aims to advance the understanding of brain function, the engineering of effective interventions, and the development of intelligent systems.
 
-See [CLOCTools](https://cloctools.github.io/) for real-time closed-loop optogenetic control software, developed in collaboration with the lab of [Garrett Stanley](https://stanley.gatech.edu/).
+See [CLOCTools](https://cloctools.github.io/) for real-time closed-loop optogenetic control software, developed in collaboration with the [Garrett Stanley lab](https://stanley.gatech.edu/).
