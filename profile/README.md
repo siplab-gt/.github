@@ -1,6 +1,9 @@
 # Welcome! 👋
 
-![pageHeader](https://user-images.githubusercontent.com/19983357/193347278-dc5ba93c-a1a0-40b9-83ae-01f6e0cbe65b.jpg)
+<!-- old lab website header: -->
+<!-- ![pageHeader](https://user-images.githubusercontent.com/19983357/193347278-dc5ba93c-a1a0-40b9-83ae-01f6e0cbe65b.jpg) -->
+<!-- new lab website header: -->
+<img src="https://siplab.gatech.edu/images/pageHeader.jpg" style="width: 100%;">
 
 This is the home of software produced by the [Structured Information for Precision Neuroengineering Lab (SIPLab)](https://siplab.gatech.edu) led by Chris Rozell and Sankar Alagapan at Georgia Tech.
 
